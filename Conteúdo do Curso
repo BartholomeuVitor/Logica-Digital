@@ -1,2 +1,62 @@
 # Conteudo :
-[DCE119]ProgramaEnsino Lógica Digital.pdf
+-Turma: A - Lógica Digital (Digital Logic) (DCE119)
+-Curso: Ciência da Computação (08)
+-Carga Horária Total: 60h Ano / Semestre: 2024 / Primeiro
+-Objetivo Geral: O estudante deverá ser capaz de identificar e manusear os diferentes sistemas de
+numeração oferecidos, desenvolver e simplificar expressões lógicas para implementar problemas
+lógicos em hardware e software, identificar componentes digitais necessários aos processadores,
+memórias e outras partes do computador, entender a lógica clássica como base para o curso de
+Ciência da Computação.
+-Ementa: Sistemas numéricos; Funções lógicas e portas lógicas. Circuitos combinacionais. Álgebra de
+Boole. Circuitos aritméticos. Flip-flops. Contadores. Multiplexadores e demultiplexadores.
+Metodologia de Ensino: Esta disciplina é ministrada com aulas expositivas que promovem provocações
+quanto à participação dos estudantes. O livro de referência básica principal é usado para a leitura dos
+estudantes de modo a formar uma base mais sólida ao aprendizado. Além disso, as listas de exercícios
+fomentam o desenvolvimento teórico e prático. Finalmente, serão aplicadas atividades de visita a
+laboratório para complementar a aprendizagem.
+Distribuição da Carga Horária: Teórica - 60h
+Responsável: Eliseu César Miguel
+-UNIDADE I
+-Bases numéricas
+-Mudanças entre bases
+-Representação de números inteiros com sinal: Sinal de Magnitude, Complemento de Um,
+Complemento de Dois e Polarização do Zero
+-Representação de números em ponto flutuante
+OBJETIVOS ESPECÍFICOS:
+-Ao final da unidade, o estudante deverá ser capaz de reconhecer, converter e utilizar as diferentes
+bases numéricas, bem como compreender a representação de números de ponto fixo e flutuante nos
+sistemas computacionais
+UNIDADE II
+-UNIDADE II
+-Expressões Lógicas
+-Conectivos lógicos
+-Variáveis lógicas e valores lógicos
+-Tabelas verdade
+-Equivalências lógicas
+-Expressões canônicas
+-Leis e postulados lógicos para simplificações de expressões lógicas
+OBJETIVOS ESPECÍFICOS:
+-Ao final da unidade II, o estudante deverá ser capaz de identificar, simplificar e manipular expressões
+lógicas, bem como propor sistemas lógicos para solucionar problemas reais
+UNIDADE III
+-UNIDADE III
+-Representação de funções lógicas por Diagramas de Venn
+-Representação de funções lógicas por Portas Lógicas e Circuitos Lógicos
+-Representação de funções lógicas por Mapas de Karnaugh
+-Técnicas de Simplificação de funções lógicas: por Mapas de Karnaugh; pelo sistema algébrico; por uso
+de tabelas verdades; e por diagramas de Venn
+OBJETIVOS ESPECÍFICOS:
+-Ao final desta unidade, o estudante deverá ser capaz de representar, identificar e simplificar as
+expressões lógicas por Diagramas de Venn, Portas Lógicas, Circuitos Elétricos e Mapas de Karnaugh.
+Além disso, fazer uso de softwares de simulação de circuitos lógicos.
+UNIDADE IV
+-UNIDADE IV - ELEMENTOS DA ELETRÔNICA DIGITAL FUNDAMENTAIS
+-Circuitos Dedicados Clássicos: codificadores; multiplexadores; demultiplexadores; somadores;
+deslocadores;
+-Estrutura interna de Latchs e Flip-Flops
+-Circuitos Sequências Clássicos: contadores e registradores
+-Organização básica de memórias: seleção de palavras, leitura e escrita em células de Flip-Flops
+OBJETIVOS ESPECÍFICOS:
+-Ao final desta unidade, o estudante deverá ser capaz de propor soluções para problemas de hardware
+e software com uso dos circuitos cassicos básicos da eletrônica digital, assim como identificar os
+circuitos e valores que transitam pelos mesmos.
