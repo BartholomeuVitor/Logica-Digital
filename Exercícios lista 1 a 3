@@ -1,0 +1,327 @@
+UNIVERSIDADE FEDERAL DE ALFENAS  -  LISTA 1 
+Curso de Ciência da Computação - Dep. de Ciências Exatas
+Disciplina: Lógica Digital
+Professor: Eliseu César Miguel
+1
+a Lista de Exercícios (Parte A)
+1. Converta os números abaixo para as bases determinadas:
+(121)10 = ( )2 (034)16 = ( )3 (0009A)16 = ( )8
+(121)3 = ( )8 (034)8 = ( )3 (111011)4 = ( )8
+(071)8 = ( )16 (AF)16 = ( )10 (00009A)16 = ( )2
+2. Represente os números inteiros abaixo no sitema Sinal de Magnitude para um sistema de
+representação em 16 bits:
++(121)10 = ( )2 +(034)16 = ( )2 −(0009A)16 = ( )2
+−(121)3 = ( )2 −(034)8 = ( )2 +(111011)4 = ( )2
+−(071)8 = ( )2 −(AF)16 = ( )2 +(00009A)16 = ( )2
+3. Represente os números inteiros abaixo no sitema Complemento de 2 para um sistema de representação em 16 bits:
++(121)10 = ( )2 +(034)16 = ( )2 −(0009A)16 = ( )2
+−(121)3 = ( )2 −(034)8 = ( )2 +(111011)4 = ( )2
+−(071)8 = ( )2 −(AF)16 = ( )2 +(00009A)16 = ( )2
+4. Forneça, em decimal, os números inteiros abaixo representados no sitema Complemento de 2
+(11100110)2 = ( )10 (01111110)2 = ( )10 (10100001)2 = ( )10
+(01101101)2 = ( )10 (10000001)2 = ( )10 (00000001)2 = ( )10
+(01010101)2 = ( )10 (10000000)2 = ( )10 (11111110)2 = ( )10
+5. Forneça, em decimal, os números inteiros abaixo representados no sitema Excesso de 2n−1
+(11100110)2 = ( )10 (01111110)2 = ( )10 (10100001)2 = ( )10
+(01101101)2 = ( )10 (10000001)2 = ( )10 (00000001)2 = ( )10
+(01010101)2 = ( )10 (10000000)2 = ( )10 (11111110)2 = ( )10
+6. Realize, em Complemento de Dois, as seguintes operações: Os números que estão na base
+binária já estão representados em Complemento de Dois.
+111001102 (014)10 111001102 (−014)10
++ 000011012 − (103)
+10
+∗ 000011012 − (−103)
+10
+111001102 (−045)8 111001103 (−014)8
+− 111111012 + (−103)
+8
+− 000011013 − (−103)
+8
+1
+7. Para cada um dos quatro sistemas de representação de números com sinal em um sistema
+computacional, considerando números representados em 8 bits, faça um mapeamento entre a
+representação binária do número e seu respectivo valor representado. Como sugustão esse exercício pode ser feito considerando os números em tabelas, cujas colunas oferecem a representação
+binária do número e o valor em decimal para cada um dos quatro sistemas de representação.
+8. Responda às questões que se seguem:
+(a) O que significa overflow em uma operação realizada entre números inteiros em um sistema
+computacional? Qual é a utilidade prática?
+(b) Cite exemplos de dois algoritmos para proceder multiplicação de números inteiros representados em complemento de dois;
+(c) O que significa IEEE? Qual é o escopo de atividades que essa entidade engloba?
+(d) Quais vantagens foram alcançadas em se representar informações no computador no formato binário?
+(e) Quais vantagen os sistemas Complemento de Dois e Excesso de 2n−1 oferecem em relação
+ao Complemento de Um e Sinal de Magnitude?
+(f) Em uma representação numérica de números inteiros, o que significa magnitude?
+(g) O que são overflow e underflow em representações de números em ponto flutuante?
+(h) Por que a representação de números em ponto flutuante não abrange todos os números
+dentro do intervalo de representação? Veja que na representação de números inteiros,
+todos os números dentro de um intervalo são representados. Por que?
+9. Represente no formato do padrao IEEE 754 os números:
+(a) +(101, 34)10
+(b) −(91, 05)10
+(c) −(347, 092)10
+(d) −(0, 622)10
+(e) +(132, 45)10
+
+
+LISTA 1-B
+UNIVERSIDADE FEDERAL DE ALFENAS
+Curso de Ciência da Computação - Dep. de Ciências Exatas
+Disciplina: Lógica Digital
+Professor: Eliseu César Miguel
+1
+a Lista de Exercícios (Parte B)
+Bibliografia
+TOCCI, R.J.; WIDMER, N.S.;MOSS, G.L.; e MARTINS, C.S.A.
+Sistemas Digitais: Princípios e Aplicações.
+10o Edição. Brasil: Editora Pearson, 2007
+Resolva, os seguintes itens abaixo da página 90 até 92:
+• 3.7;
+• 3.15;
+• 3.16 menos o item b), com suas tabelas verdades;
+• 3.17;
+• 3.18;
+• 3.19;
+• 3.21;
+• 3.22;
+• 3.23;
+• 3.24;
+• 3.26;
+• 3.27;
+• 3.29;
+• 3.30;
+• 3.31;
+• 3.32
+
+LISTA 2 
+UNIVERSIDADE FEDERAL DE ALFENAS
+Curso de Ciência da Computação - Dep. de Ciêncais Exatas
+Disciplina: Introdução à Lógica Digital
+Professor: Eliseu César Miguel
+2
+a Lista de Exercícios (Parte A)
+1. Para cada ítem desta sessão, escolha um dos diagramas da Figura 1 que representa corretamente
+a lógica descrita no ítem. Caso nenhum dos diagramas da Figura 1 seja adequado, você deverá
+sugerir um diagrama correto:
+Figura 1: Diagrama de conjunto
+(a) doutores, graduados, políticos;
+(b) louros, morenos, ateus;
+(c) dentistas, dançarinos, angolanos;
+(d) cigarros, drogas, cervejas;
+(e) viciados, estudantes, estelionatários;
+(f) recipientes, panelas, comidas;
+(g) artistas, atores, pernanbucanos;
+(h) padres, mulheres, doentes mentais;
+(i) lutadores de box, frades, homems;
+(j) plantas raízes, remédios;
+(k) livros, discos, obras primas;
+(l) platéia, pessoas, crianças
+(m) metalúrgicos, operários, cantores;
+(n) medicina, alopatia, homeopatia;
+(o) solfato, ditado musical, vaca;
+(p) advogados, americanos, mecânicos;
+
+2. Para as frases abaixo, descubra as formas atômicas possíveis e, em seguida, descreva as fórmulas
+originadas, como no exemplo que se segue.
+Exemplo :. Se Felipe Massa for poli e se não faltar energia elétrica eu assistirei à corrida.
+Solução :. Usaremos os símbolos proposicionais: p, q e r com as seguintes definições:
+p ≡ Felipe Massa é Poli
+q ≡ Falta de energia elétrica
+r ≡ assisto à corrida
+Fórmula resultante:. p.q → r
+(a) O jogo não foi agradável, o juiz roubou e, as meninas o assistiram ou estudaram.
+(b) O policial é mal pago e marginalizado
+(c) Se o governo não fosse corrupto nós pagaríamos as contas com mais prazer e teríamos
+melhores condições de vida
+(d) Para o homem ser feliz é necessário: Saúde, amor, casa própria e, muito dinheiro ou uma
+ilha deserta.
+(e) A fermentação ocorre à temperatura mínima de 23o C
+A mistura de cevada e lúpulo possibilita a fermentação caso a temperatura seja adequada
+Se eu alcançar a Fermentação então consigo produzir cerveja
+A temperatura agora é 34oC
+3. Para as questões que se seguem, assinale a resposta correta:
+(a) Todo professor é graduado.
+Alguns professores são pós-graduados.
+i. Alguns pós-graduados são graduados.
+ii. Alguns pós-graduados não são graduados
+iii. Todos pós-graduados são graduados.
+iv. Todos pós-graduados não são graduados.
+v. Nenhum pós-graduado é graduado.
+(b) Todo cristão é teísta
+Algum cristão é luterano
+i. Todo teísta é luterano.
+ii. Algum luterano é teísta.
+iii. Algum luterano não é cristão.
+iv. Nenhum teísta é cristão.
+
+v. Nenhum luterano é teísta.
+(c) Nemhum M é K
+Algum R é K
+i. algum R não é M.
+ii. todo R é M.
+iii. nemhum R é M.
+iv. algum R é M.
+v. todo R não é M.
+4. Para cada uma das afirmativas abaixo forneça sua negação lógica: Para esta questão o símbolo
+∨ significa o ou lógico e o símbolo ∧ significa o e lógico.
+(a) x > y ; x 6= y ; p → q ;
+(b) x ∈ (A ∪ B) ; x ∈ (A ∩ B) ;
+(c) (∀x)(p(x)) ; (∃x)(q(x)) ;
+(d) p(x) → q(x) ; p(x) ↔ q(x) ;
+(e) Viajarei de ônibus ou de avião ;
+(f) Ela cria cachorros e gatos ;
+(g) Se o polígono P é um paralelogramo, então é um quadrado ;
+(h) Existe ao menos um aluno estudioso ;
+(i) Nenhum aluno foi reprovado ;
+(j) Todos alunos são maiores de idade ;
+(k) Existe pescador que não é mentiroso ;
+(l) Não quero nada ;
+(m) (4 ∈ A) ∨ (4 ∈ B) ;
+(n) (4 ∈ A) ∧ (4 ∈ B) ;
+(o) Todo nordestino é trabalhador ;
+(p) Existe galinha com pescoço pelado ;
+(q) Alguma música é erudita ;
+(r) Nenhum peixe vive fora da água ;
+(s) Marta gosta de ler ou de ouvir música ;
+(t) Se Marta estudou, então foi aprovada ;
+(u) Thábata é magra e loura. ;
+
+(v) Nenhum gato gosta de tomar banho ;
+(w) Wilson não é paciente ou Lídia não é faladeira ;
+(x) O gato mia e o rato chia ;
+5. Determine o valor lógico das seguintes proposições:
+(a) é falso que (3 + 4 = 7 e 2 + 2 = 5)
+(b) não é verdade que 1998 é um número ímpar
+(c) 2 + 2 = 4 → (3 + 3 = 7 ↔ 1 + 1 = 3)
+6. Sejam as proposições:
+p ≡ Jô Soares é gordo.
+q ≡ Jô soares é artista.
+Escreva, na forma algébrica, cada uma das proposições seguintes:
+(a) Jô Soares não é gordo
+(b) Jô soares não é artista.
+(c) Não é verdade que Jô Soares não é gordo
+(d) Jô Soares é gordo ou artista.
+(e) Jô Soares não é gordo e é artista.
+7. Mostre que as Fórmulas Lógicas abaixo são tautologias.
+(a) P .Q → P + Q
+(b) P.Q ↔ P + Q
+(c) P → Q → P.Q
+(d) P → (Q → P)
+(e) (Q → (K → N)) → ((Q → K) → (Q → N))
+(f) (P → Q → ((P → Q) → P)
+(g) P + Q ↔ P → Q
+8. Simplifique, ao máximo, e deixando claro em cada passo qual lei lógica você utilizou, as expressões abaixo.
+(a) F(a, b, c) ≡ (a.b.c + a.b + a.b.c)
+(b) X(a, b, c) ≡ a.b.c + a.b.c + c,
+
+(c) P(a, b, c, d) ≡ ((d + a) + (d.a)) → d + a + c.d(a + d).d.c
+(d) M(a, b, c, d) ≡ (a + b + c).a → (c.d).d
+9. Para os diagramas de Venn da Figura 2 faça o que se pede:
+Figura 2: Expressões lógicas em Diagramas de Venn
+(a) Forneça as expressões lógicas no formato algébrico;
+(b) Forneça as expressões no formato de circuitos;
+(c) Forneça as expressões no formato de portas lógicas;
+(d) Simplifique as expressões lógicas;
+(e) Represente, utilizando Diagramas de Venn, as expressões:
+i. Z ≡ K + M
+ii. W ≡ K · M
+iii. P ≡ (K + V ) · T
+10. Minimize as expressões a seguir, utilizando o mapa de Karnaugh:
+(a) A.B + A.B
+(b) A.B.C + A.B.C + A.B.C + A.B.C
+(c) A.B.C.D + A.B.C.D + A.B.C.D + A.B.C.D
+(d) A.B.C.D.E + A.B.C.D.E + A.B.C.D.E + A.B.C.D.E
+
+
+LISTA 3 
+
+UNIVERSIDADE FEDERAL DE ALFENAS
+Curso de Ciência da Computação - Dep. de Ciêncais Exatas
+Disciplina: Introdução à Lógica Digital
+Professor: Eliseu César Miguel
+3
+a Lista de Exercícios (Parte A)
+1. Para o circuito K da Figura 1, determine ao longo do tempo os valores (em formas de ondas)
+das entradas J e K e das saídas Q e Q do ip-op, dados os valores em forma de onda dos
+sinais CK, A e B. Considerar inicialmente Q = 0.
+Figura 1: Circuito K
+2. Descreva o funcionamento e exemplique, com um mínimo de três exemplos de aplicações, os
+circuitos decodicadores, multiplexadores e demultiplexadores.
+3. A partir de um MUX 8x3 em caixa preta (multiplexador de 8 canais), desenvolva um multiplexador de 4 canais MUX 4x2.
+4. Utilizando DEMUX 2x1 em caixa preta (demultiplexadores de 2 canais), desenvolva um DEMUX 8x3 (demultiplexador de 8 canais).
+5. Utilizando MUX 4x2 em caixa preta (multiplexadores de 4 canais), implemente um circuito
+capaz de multiplexar 4 informações diferentes (I1, I2, I3, I4), cada uma composta de 3 bits,
+para que apenas uma das informações Ii
+, de 3 bits, esteja disponível na saída.
+6. Para as expressões X, Y , K, M, T e V da Tabela 1 faça o que se pede:
+(a) Forneça a representação das expressões na forma de circuitos;
+(b) Forneça a representação das expressões na forma de portas lógicas;
+(c) Forneça um circuito da forma simplicada das expressões;
+1
+a b c d X K M T V
+0 0 0 0 0 1 0 1 1
+0 0 0 1 0 1 0 1 1
+0 0 1 0 1 0 0 1 1
+0 0 1 1 1 0 0 1 1
+0 1 0 0 1 0 0 1 1
+0 1 0 1 0 0 0 1 1
+0 1 1 0 0 0 0 1 1
+0 1 1 1 0 0 0 1 1
+1 0 0 0 1 1 0 1 1
+1 0 0 1 1 1 0 1 1
+1 0 1 0 0 1 0 1 0
+1 0 1 1 0 1 0 1 1
+1 1 0 0 1 1 0 1 1
+1 1 0 1 1 1 0 1 1
+1 1 1 0 0 1 0 1 1
+1 1 1 1 1 1 0 1 1
+Tabela 1: Funções Lógicas X, Y, K, M T e V
+7. Implemente a expressão booleana K ≡ a.b + d → a.b+c+d, utilizando um MUX 8x3 em caixa
+preta.
+8. A partir dos sinais aplicados às entradas do registrador da Figura 2, esboce as formas de onda
+das saídas para o Registrador de deslocamento em Q3 Q2 Q1 e Q0.
+Figura 2: Registrador de deslocamento de 4 bits
+9. Descreva a diferença fundamental entre o ip-op e o Latch.
+10. Descreva, em linhas gerais, o que são Circuitos Contadores e ilustre aplicações para os mesmos.
+2
+11. Diferencie Contador Assíncrono e Contador Síncrono.
+12. Projete um Contador Assíncrono de 3 bits para efetuar a contagem crescente ou decrescente,
+através de uma variável de controle X. Se X = 0 a contagem deve ser decrescente e crescente
+caso contrário.
+13. Forneça as expressões X e Y da Figura 3 em representação por portas lógicas.
+Figura 3: Expressões X e Y
+Exercício Prático
+Fazendo uso do Digital Works:
+1. Implemente macros para os codicadores decimal|binário, binário|DisplaySeteSegmentos;
+2. Faça uma estrutura que receba uma entrada de dez linhas referente a um número decimal e o exiba
+no display de sete segmentos. Essa estrutura deverá utilizar suas macros;
+3. Utilizando suas macros, faça uma estrutura que tenha uma controladora C que, quando o usuário
+fornecer o número decimal na entrada, C receberá um bit de controle que determinará o armazenamento
+do valor de entrada, convertido em binário, em uma estrutura de armazenamento qualquer. Além disso,
+sua estrutura deverá ter mais duas funcionalidades, que são: exibir o número armazenado num display
+quando o usuário solicitar essa ação e, a segunda, limpar o display caso o usuário solicite.
+4. Implemente uma estrutura de memória de quatro palavras de três bits cada. Essa estrutura deverá ter
+os controles de leitura e escrita e de desliga. Veja a transparência "Memória.jpeg" que está dentre os
+arquivos do grupo
+5. Implemente um deslocador para números binários de 8 bits. Caso o deslocador receba o controle 0 o
+desvio será para a esquerda e, caso contrário, para a direita.
+6. Faça um circuito comparador de dois números. Apenas dois resultados são necessários: Se os dois
+números são igual (0) ou diferentes (1).
+3
+Projeto
+Um estacionamento possui um portão para entrada e saída de carros. Seu dono pretende instalar um sistema de informação luminosa de liberação ou impedimento de passagem e um portão
+automático que abre ou fecha segundo as condições a seguir:
+1. Abre quando um carro estiver querendo sair, acendendo a luz verde interna de liberação de saída.
+2. Abre quando um carro estiver querendo entrar, acendendo a luz verde externa de liberação de entrada.
+3. Se existe um carro querendo entrar e outro sair, o portão abre acendendo a luz vermelha externa de
+impedimento de entrada e a luz verde interna de liberação de saída.
+4. O portão fecha quando nenhum carro estiver querendo entrar ou sair, acendendo as luzes vermelhas
+externa e interna de impedimento de entrada e saída.
+Para isso, o dono contratou uma empresa especializada que montou os sistemas de acionamento das luzes
+e do motor do portão, além do sistema de detecção de veículos na entrada e saída do estacionamento, todos
+ativos em 12V, conforme o esquema a seguir:
+Figura 4: Esquema do projeto de automação do estacionamento
+Contudo, a empresa deixou de implementar o sistema digital de controle devido ao aumento abusivo da
+segunda parcela do contrato, o que levou o dono do estacionamento a contratar um estudante de nossa escola
+4
+para terminar o projeto. Assim, você foi escolhido para projetar o sistema de controle, utilizando circuitos
+integrados comerciais com tecnologia CMOS.
